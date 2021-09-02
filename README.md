@@ -1,6 +1,8 @@
 # Machine-Learning-Algorithms
 Various ML algorithms for implementation and understanding.
 
+実装と理解のためのさまざまなMLアルゴリズム。
+
 - multiclass_logistic_regression
 
 The problem statement given has 3 classes of flowers. The approach was meant to
