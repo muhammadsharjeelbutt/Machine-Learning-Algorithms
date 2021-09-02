@@ -1,5 +1,5 @@
 # Machine-Learning-Algorithms
-Various ML algorithms for implementation and understanding. Datasets are provided.
+Various ML algorithms for implementation and understanding.
 
 - multiclass_logistic_regression
 
